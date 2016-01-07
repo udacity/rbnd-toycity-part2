@@ -13,9 +13,9 @@ products_hash = JSON.parse(file)
 	# Print the name of the toy
 	# Print the retail price of the toy
 	# Calculate and print the total number of purchases
-	# Calcalate and print the total amount of sales
+	# Calculate and print the total amount of sales
 	# Calculate and print the average price the toy sold for
-	# Calculate and print the average % discount based off the average sales price
+	# Calculate and print the average discount (% or $) based off the average sales price
 
 # Print "Brands" in ascii art
 
