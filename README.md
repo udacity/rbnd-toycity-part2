@@ -29,4 +29,4 @@ Before submitting your project for evaluation, we recommend that you check that 
 * You are proud of your project and its output
 * You completed your project according to the instructions
 * You checked your project against the [rubric](https://docs.google.com/document/d/1TgOs3jLJp8TUP6ZIrujV4FkHFOvnek1T_OUz0-yW6jA/pub)
-* Create a zip file with your  For instructions on how to do this, click [here](https://docs.google.com/document/d/1jPCDXBuD4xV8PsGLa5K9Fpn_9lSCTrXeOWcUKQGnATU/pub?embedded=true). When you feel ready to submit, use the blue 'Submit Project' button below!
+* Create a zip file with your submission. For instructions on how to do this, click [here](https://docs.google.com/document/d/1jPCDXBuD4xV8PsGLa5K9Fpn_9lSCTrXeOWcUKQGnATU/pub?embedded=true). When you feel ready to submit, use the blue 'Submit Project' button below!
